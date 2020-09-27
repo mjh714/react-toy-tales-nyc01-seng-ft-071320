@@ -43,10 +43,16 @@
       "likes": 0
     },
     {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "little green men",
+      "image": "https://disneytoystorymovie.files.wordpress.com/2014/09/aliens-rect.jpg?w=700&h=443&crop=1",
+      "likes": 0,
+      "id": 8
+    },
+    {
+      "name": "army men",
+      "image": "https://www.mcall.com/resizer/0PmQp7l5oV9GGgtZBxPf3yDRyyE=/415x331/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6DVE4RQ2CBBR3JTUT74BNTQUIE.jpg",
+      "likes": 0,
+      "id": 9
     }
   ]
 }
